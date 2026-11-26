@@ -5,23 +5,23 @@ class Irie < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.0/irie-v0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "8dc3899b9ebdd5c3d2edf13def8c82fb09e07e227588368a75fe5ce46afc0ef5"
+      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.1/irie-v0.1.1-aarch64-apple-darwin.tar.gz"
+      sha256 "1dc8f5ea0271f2993ec85b5d8e96b706aa728ab5c4afb880fea64099a8e4714b"
     end
     on_intel do
-      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.0/irie-v0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "f8703fe6c2dd52757f29a8e128ed52d66cb003751a23470d978522df0db89ca7"
+      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.1/irie-v0.1.1-x86_64-apple-darwin.tar.gz"
+      sha256 "8ed103705de582f80af9f5838d272e3363847db79e26f99a7cced8f871ea6079"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.0/irie-v0.1.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "def105f5e6db1a55dc7e87487b5fd0780fffdc35aad550ee759323b1fbf616d2"
+      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.1/irie-v0.1.1-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "4cc64ee685a9f621f3a799f9509f41f4b207b8241d0fbbc94840e1f525e357a8"
     end
     on_intel do
-      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.0/irie-v0.1.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "f7c18043f938bb837506b2ebc715ac8a221e9b35d8a068ff5b586f37fdfeab1e"
+      url "https://github.com/jovanfrandika/irie/releases/download/v0.1.1/irie-v0.1.1-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "01c4364e62b10dd4e68619dc60daf99284ce8002a6df45f73683cf740c588d37"
     end
   end
 

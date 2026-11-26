@@ -1,7 +1,6 @@
 class Irie < Formula
   desc "Spotify client for the terminal: play, visualize, browse, queue and Jam"
   homepage "https://github.com/jovanfrandika/irie"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
